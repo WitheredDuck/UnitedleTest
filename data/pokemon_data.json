@@ -1,0 +1,2191 @@
+{
+    "key_list": [
+        "Absol",
+        "Aegislash",
+        "Alcreamie",
+        "Armarouge",
+        "Azumarill",
+        "Blastoise",
+        "Blaziken",
+        "Blissey",
+        "Buzzwole",
+        "Ceruledge",
+        "Chandalure",
+        "Charizard",
+        "Mega Charizard X",
+        "Mega Charizard Y",
+        "Cinderace",
+        "Clefable",
+        "Comfey",
+        "Cramorant",
+        "Crustle",
+        "Darkrai",
+        "Decidueye",
+        "Delphox",
+        "Dhelmise",
+        "Dodrio",
+        "Dragapult",
+        "Dragonite",
+        "Duraludon",
+        "Eldegoss",
+        "Empoleon",
+        "Espeon",
+        "Falinks",
+        "Garchomp",
+        "Gardevoir",
+        "Gengar",
+        "Glaceon",
+        "Goodra",
+        "Greedent",
+        "Greninja",
+        "Gyarados",
+        "Mega Gyarados",
+        "Ho-Oh",
+        "Hoopa",
+        "Inteleon",
+        "Lapras",
+        "Latias",
+        "Latios",
+        "Leafeon",
+        "Lucario",
+        "Mega Lucario",
+        "Machamp",
+        "Mamoswine",
+        "Meowscarada",
+        "Meowth",
+        "Metagross",
+        "Mew",
+        "Mega Mewtwo X",
+        "Mega Mewtwo Y",
+        "Mimikyu",
+        "Miraidon",
+        "Moltres",
+        "Mr. Mime",
+        "Alolan Ninetales",
+        "Pawmot",
+        "Pikachu",
+        "Psyduck",
+        "Alolan Raichu",
+        "Galarian Rapidash",
+        "Sableye",
+        "Scizor",
+        "Scyther",
+        "Sirfetch'd",
+        "Slowbro",
+        "Snorlax",
+        "Suicune",
+        "Sylveon",
+        "Talonflame",
+        "Tinkaton",
+        "Trevenant",
+        "Tsareena",
+        "Tyranitar",
+        "Umbreon",
+        "Urshifu",
+        "Vaporeon",
+        "Venusaur",
+        "Wigglytuff",
+        "Zacian",
+        "Zapdos",
+        "Zeraora",
+        "Zoroark"
+    ],
+    "sprites": {
+        "Absol": ["poke-sprites",0,0],
+        "Aegislash": ["poke-sprites",-96,0],
+        "Alcreamie": ["poke-sprites",-192,0],
+        "Armarouge": ["poke-sprites",-288,0],
+        "Azumarill": ["poke-sprites",-384,0],
+        "Blastoise": ["poke-sprites",-480,0],
+        "Blaziken": ["poke-sprites",-576,0],
+        "Blissey": ["poke-sprites",-672,0],
+        "Buzzwole": ["poke-sprites",-768,0],
+        "Ceruledge": ["poke-sprites",-864,0],
+        "Chandalure": ["poke-sprites",0,-96],
+        "Charizard": ["poke-sprites",-96,-96],
+        "Mega Charizard X": ["poke-sprites",-192,-96],
+        "Mega Charizard Y": ["poke-sprites",-288,-96],
+        "Cinderace": ["poke-sprites",-384,-96],
+        "Clefable": ["poke-sprites",-480,-96],
+        "Comfey": ["poke-sprites",-576,-96],
+        "Cramorant": ["poke-sprites",-672,-96],
+        "Crustle": ["poke-sprites",-768,-96],
+        "Darkrai": ["poke-sprites",-864,-96],
+        "Decidueye": ["poke-sprites",0,-192],
+        "Delphox": ["poke-sprites",-96,-192],
+        "Dhelmise": ["poke-sprites",-192,-192],
+        "Dodrio": ["poke-sprites",-288,-192],
+        "Dragapult": ["poke-sprites",-384,-192],
+        "Dragonite": ["poke-sprites",-480,-192],
+        "Duraludon": ["poke-sprites",-576,-192],
+        "Eldegoss": ["poke-sprites",-672,-192],
+        "Empoleon": ["poke-sprites",-768,-192],
+        "Espeon": ["poke-sprites",-864,-192],
+        "Falinks": ["poke-sprites",0,-288],
+        "Garchomp": ["poke-sprites",-96,-288],
+        "Gardevoir": ["poke-sprites",-192,-288],
+        "Gengar": ["poke-sprites",-288,-288],
+        "Glaceon": ["poke-sprites",-384,-288],
+        "Goodra": ["poke-sprites",-480,-288],
+        "Greedent": ["poke-sprites",-576,-288],
+        "Greninja": ["poke-sprites",-672,-288],
+        "Gyarados": ["poke-sprites",-768,-288],
+        "Mega Gyarados": ["poke-sprites",-864,-288],
+        "Ho-Oh": ["poke-sprites",0,-384],
+        "Hoopa": ["poke-sprites",-96,-384],
+        "Inteleon": ["poke-sprites",-192,-384],
+        "Lapras": ["poke-sprites",-288,-384],
+        "Latias": ["poke-sprites",-384,-384],
+        "Latios": ["poke-sprites",-480,-384],
+        "Leafeon": ["poke-sprites",-576,-384],
+        "Lucario": ["poke-sprites",-672,-384],
+        "Mega Lucario": ["poke-sprites",-768,-384],
+        "Machamp": ["poke-sprites",-864,-384],
+        "Mamoswine": ["poke-sprites",0,-480],
+        "Meowscarada": ["poke-sprites",-96,-480],
+        "Meowth": ["poke-sprites",-192,-480],
+        "Metagross": ["poke-sprites",-288,-480],
+        "Mew": ["poke-sprites",-384,-480],
+        "Mega Mewtwo X": ["poke-sprites",-480,-480],
+        "Mega Mewtwo Y": ["poke-sprites",-576,-480],
+        "Mimikyu": ["poke-sprites",-672,-480],
+        "Miraidon": ["poke-sprites",-768,-480],
+        "Moltres": ["poke-sprites",-864,-480],
+        "Mr. Mime": ["poke-sprites",0,-576],
+        "Alolan Ninetales": ["poke-sprites",-96,-576],
+        "Pawmot": ["poke-sprites",-192,-576],
+        "Pikachu": ["poke-sprites",-288,-576],
+        "Psyduck": ["poke-sprites",-384,-576],
+        "Alolan Raichu": ["poke-sprites",-480,-576],
+        "Galarian Rapidash": ["poke-sprites",-576,-576],
+        "Sableye": ["poke-sprites",-672,-576],
+        "Scizor": ["poke-sprites",-768,-576],
+        "Scyther": ["poke-sprites",-864,-576],
+        "Sirfetch'd": ["poke-sprites",0,-672],
+        "Slowbro": ["poke-sprites",-96,-672],
+        "Snorlax": ["poke-sprites",-192,-672],
+        "Suicune": ["poke-sprites",-288,-672],
+        "Sylveon": ["poke-sprites",-384,-672],
+        "Talonflame": ["poke-sprites",-480,-672],
+        "Tinkaton": ["poke-sprites",-576,-672],
+        "Trevenant": ["poke-sprites",-672,-672],
+        "Tsareena": ["poke-sprites",-768,-672],
+        "Tyranitar": ["poke-sprites",-864,-672],
+        "Umbreon": ["poke-sprites",0,-768],
+        "Urshifu": ["poke-sprites",-96,-768],
+        "Vaporeon": ["poke-sprites",-192,-768],
+        "Venusaur": ["poke-sprites",-288,-768],
+        "Wigglytuff": ["poke-sprites",-384,-768],
+        "Zacian": ["poke-sprites",-480,-768],
+        "Zapdos": ["poke-sprites",-576,-768],
+        "Zeraora": ["poke-sprites",-672,-768],
+        "Zoroark": ["poke-sprites",-768,-768]
+    },
+    "property_structure": [
+        "role",
+        "range",
+        "difficulty",
+        "stage",
+        {
+            "category": "Level Ups",
+            "contents": [
+                "evolve_level",
+                "move_level",
+                "unite_move_level"
+            ]
+        },
+        {
+            "category": "Stats",
+            "contents": [
+                "hp",
+                "attack",
+                "defense",
+                "sp_attack",
+                "sp_defense",
+                "crit_rate",
+                "CDR",
+                "lifesteal",
+                "attack_speed",
+                "speed"
+            ]
+        },
+        {
+            
+            "category": "Cooldowns",
+            "contents": [
+                "passive_cooldown",
+                "move1_cooldown_1",
+                "move1_cooldown_2",
+                "move2_cooldown_1",
+                "move2_cooldown_2",
+                "unite_move_cooldown"
+            ]
+        },
+        "year_released"
+    ],
+    "default_selection": [
+        "role",
+        "range",
+        "difficulty",
+        "stage",
+        "evolve_level",
+        "unite_move_level",
+        "unite_move_cooldown",
+        "year_released"
+    ],
+    "properties": {
+        "attack": {
+            "property_name": "Attack",
+            "property_description": "Pokemon's Physical Attack stat at level 15.",
+            "default_value": 0,
+            "entries": {
+                "Absol": 110,
+                "Aegislash": 112,
+                "Alcreamie": 75,
+                "Armarouge": 120,
+                "Azumarill": 85,
+                "Blastoise": 104,
+                "Blaziken": 120,
+                "Blissey": 50,
+                "Buzzwole": 130,
+                "Ceruledge": 120,
+                "Chandalure": 120,
+                "Charizard": 116,
+                "Mega Charizard X": 130,
+                "Mega Charizard Y": 150,
+                "Cinderace": 120,
+                "Clefable": 70,
+                "Comfey": 50,
+                "Cramorant": 90,
+                "Crustle": 100,
+                "Darkrai": 135,
+                "Decidueye": 110,
+                "Delphox": 110,
+                "Dhelmise": 130,
+                "Dodrio": 110,
+                "Dragapult": 120,
+                "Dragonite": 134,
+                "Duraludon": 115,
+                "Eldegoss": 60,
+                "Empoleon": 110,
+                "Espeon": 90,
+                "Falinks": 100,
+                "Garchomp": 130,
+                "Gardevoir": 95,
+                "Gengar": 110,
+                "Glaceon": 90,
+                "Goodra": 100,
+                "Greedent": 90,
+                "Greninja": 125,
+                "Gyarados": 125,
+                "Mega Gyarados": 155,
+                "Ho-Oh": 130,
+                "Hoopa": 110,
+                "Inteleon": 120,
+                "Lapras": 85,
+                "Latias": 110,
+                "Latios": 130,
+                "Leafeon": 110,
+                "Lucario": 120,
+                "Mega Lucario": 145,
+                "Machamp": 130,
+                "Mamoswine": 130,
+                "Meowscarada": 120,
+                "Meowth": 75,
+                "Metagross": 135,
+                "Mew": 100,
+                "Mega Mewtwo X": 190,
+                "Mega Mewtwo Y": 150,
+                "Mimikyu": 105,
+                "Miraidon": 120,
+                "Moltres": 125,
+                "Mr. Mime": 70,
+                "Alolan Ninetales": 80,
+                "Pawmot": 100,
+                "Pikachu": 75,
+                "Psyduck": 65,
+                "Alolan Raichu": 100,
+                "Galarian Rapidash": 100,
+                "Sableye": 85,
+                "Scizor": 130,
+                "Scyther": 120,
+                "Sirfetch'd": 120,
+                "Slowbro": 75,
+                "Snorlax": 110,
+                "Suicune": 85,
+                "Sylveon": 65,
+                "Talonflame": 120,
+                "Tinkaton": 110,
+                "Trevenant": 110,
+                "Tsareena": 120,
+                "Tyranitar": 134,
+                "Umbreon": 65,
+                "Urshifu": 130,
+                "Vaporeon": 65,
+                "Venusaur": 100,
+                "Wigglytuff": 70,
+                "Zacian": 130,
+                "Zapdos": 125,
+                "Zeraora": 112,
+                "Zoroark": 120
+            }
+        },
+        "attack_speed": {
+            "property_name": "Attack Speed",
+            "property_description": "Pokemon's Attack Speed stat at level 15.",
+            "default_value": 0,
+            "entries": {
+                "Absol": 0.8,
+                "Aegislash": 0.7,
+                "Alcreamie": 0.9,
+                "Armarouge": 0.8,
+                "Azumarill": 0.8,
+                "Blastoise": 0.7,
+                "Blaziken": 0.8,
+                "Blissey": 0.6,
+                "Buzzwole": 0.7,
+                "Ceruledge": 0.8,
+                "Chandalure": 0.7,
+                "Charizard": 0.8,
+                "Mega Charizard X": 0.9,
+                "Mega Charizard Y": 1.0,
+                "Cinderace": 0.8,
+                "Clefable": 0.7,
+                "Comfey": 1.0,
+                "Cramorant": 0.8,
+                "Crustle": 0.6,
+                "Darkrai": 0.9,
+                "Decidueye": 0.7,
+                "Delphox": 0.7,
+                "Dhelmise": 0.6,
+                "Dodrio": 1.2,
+                "Dragapult": 1.2,
+                "Dragonite": 0.8,
+                "Duraludon": 0.7,
+                "Eldegoss": 1.2,
+                "Empoleon": 0.7,
+                "Espeon": 1.2,
+                "Falinks": 1.2,
+                "Garchomp": 1.2,
+                "Gardevoir": 1.2,
+                "Gengar": 1.2,
+                "Glaceon": 1.2,
+                "Goodra": 0.6,
+                "Greedent": 1.2,
+                "Greninja": 1.2,
+                "Gyarados": 0.7,
+                "Mega Gyarados": 0.6,
+                "Ho-Oh": 0.7,
+                "Hoopa": 1.2,
+                "Inteleon": 0.8,
+                "Lapras": 0.6,
+                "Latias": 0.8,
+                "Latios": 0.8,
+                "Leafeon": 0.8,
+                "Lucario": 1.2,
+                "Mega Lucario": 1.2,
+                "Machamp": 1.2,
+                "Mamoswine": 0.6,
+                "Meowscarada": 1.2,
+                "Meowth": 0.8,
+                "Metagross": 0.8,
+                "Mew": 1.2,
+                "Mega Mewtwo X": 1.2,
+                "Mega Mewtwo Y": 1.2,
+                "Mimikyu": 1.2,
+                "Miraidon": 0.8,
+                "Moltres": 0.8,
+                "Mr. Mime": 1.2,
+                "Alolan Ninetales": 1.2,
+                "Pawmot": 1.2,
+                "Pikachu": 1.2,
+                "Psyduck": 0.8,
+                "Alolan Raichu": 1.2,
+                "Galarian Rapidash": 0.8,
+                "Sableye": 0.8,
+                "Scizor": 0.8,
+                "Scyther": 1.2,
+                "Sirfetch'd": 0.8,
+                "Slowbro": 0.6,
+                "Snorlax": 0.6,
+                "Suicune": 0.6,
+                "Sylveon": 1.2,
+                "Talonflame": 1.2,
+                "Tinkaton": 0.8,
+                "Trevenant": 0.6,
+                "Tsareena": 1.2,
+                "Tyranitar": 0.6,
+                "Umbreon": 0.8,
+                "Urshifu": 1.2,
+                "Vaporeon": 0.6,
+                "Venusaur": 0.8,
+                "Wigglytuff": 0.8,
+                "Zacian": 1.2,
+                "Zapdos": 0.8,
+                "Zeraora": 1.2,
+                "Zoroark": 1.2
+            }
+        },
+        "CDR": {
+            "property_name": "Cooldown Reduction",
+            "property_description": "Pokemon's Cooldown Reduction percent at level 15.",
+            "default_value": 0,
+            "entries": {
+                "Absol": 0.1,
+                "Aegislash": 0.1,
+                "Alcreamie": 0.1,
+                "Armarouge": 0.1,
+                "Azumarill": 0.1,
+                "Blastoise": 0.1,
+                "Blaziken": 0.1,
+                "Blissey": 0.1,
+                "Buzzwole": 0.1,
+                "Ceruledge": 0.1,
+                "Chandalure": 0.1,
+                "Charizard": 0.1,
+                "Mega Charizard X": 0.1,
+                "Mega Charizard Y": 0.1,
+                "Cinderace": 0.1,
+                "Clefable": 0.1,
+                "Comfey": 0.1,
+                "Cramorant": 0.1,
+                "Crustle": 0.1,
+                "Darkrai": 0.1,
+                "Decidueye": 0.1,
+                "Delphox": 0.1,
+                "Dhelmise": 0.1,
+                "Dodrio": 0.1,
+                "Dragapult": 0.1,
+                "Dragonite": 0.1,
+                "Duraludon": 0.1,
+                "Eldegoss": 0.1,
+                "Empoleon": 0.1,
+                "Espeon": 0.1,
+                "Falinks": 0.1,
+                "Garchomp": 0.1,
+                "Gardevoir": 0.1,
+                "Gengar": 0.1,
+                "Glaceon": 0.1,
+                "Goodra": 0.1,
+                "Greedent": 0.1,
+                "Greninja": 0.1,
+                "Gyarados": 0.1,
+                "Mega Gyarados": 0.1,
+                "Ho-Oh": 0.1,
+                "Hoopa": 0.1,
+                "Inteleon": 0.1,
+                "Lapras": 0.1,
+                "Latias": 0.1,
+                "Latios": 0.1,
+                "Leafeon": 0.1,
+                "Lucario": 0.1,
+                "Mega Lucario": 0.1,
+                "Machamp": 0.1,
+                "Mamoswine": 0.1,
+                "Meowscarada": 0.1,
+                "Meowth": 0.1,
+                "Metagross": 0.1,
+                "Mew": 0.1,
+                "Mega Mewtwo X": 0.1,
+                "Mega Mewtwo Y": 0.1,
+                "Mimikyu": 0.1,
+                "Miraidon": 0.1,
+                "Moltres": 0.1,
+                "Mr. Mime": 0.1,
+                "Alolan Ninetales": 0.1,
+                "Pawmot": 0.1,
+                "Pikachu": 0.1,
+                "Psyduck": 0.1,
+                "Alolan Raichu": 0.1,
+                "Galarian Rapidash": 0.1,
+                "Sableye": 0.1,
+                "Scizor": 0.1,
+                "Scyther": 0.1,
+                "Sirfetch'd": 0.1,
+                "Slowbro": 0.1,
+                "Snorlax": 0.1,
+                "Suicune": 0.1,
+                "Sylveon": 0.1,
+                "Talonflame": 0.1,
+                "Tinkaton": 0.1,
+                "Trevenant": 0.1,
+                "Tsareena": 0.1,
+                "Tyranitar": 0.1,
+                "Umbreon": 0.1,
+                "Urshifu": 0.1,
+                "Vaporeon": 0.1,
+                "Venusaur": 0.1,
+                "Wigglytuff": 0.1,
+                "Zacian": 0.1,
+                "Zapdos": 0.1,
+                "Zeraora": 0.1,
+                "Zoroark": 0.1
+            }
+        },
+        "crit_rate": {
+            "property_name": "Critical Hit Rate",
+            "property_description": "Pokemon's Critical Hit Rate percent at level 15.",
+            "default_value": 0,
+            "entries": {
+                "Absol": 0.1,
+                "Aegislash": 0.1,
+                "Alcreamie": 0.1,
+                "Armarouge": 0.1,
+                "Azumarill": 0.1,
+                "Blastoise": 0.1,
+                "Blaziken": 0.1,
+                "Blissey": 0.1,
+                "Buzzwole": 0.1,
+                "Ceruledge": 0.1,
+                "Chandalure": 0.1,
+                "Charizard": 0.1,
+                "Mega Charizard X": 0.1,
+                "Mega Charizard Y": 0.1,
+                "Cinderace": 0.1,
+                "Clefable": 0.1,
+                "Comfey": 0.1,
+                "Cramorant": 0.1,
+                "Crustle": 0.1,
+                "Darkrai": 0.1,
+                "Decidueye": 0.1,
+                "Delphox": 0.1,
+                "Dhelmise": 0.1,
+                "Dodrio": 0.1,
+                "Dragapult": 0.1,
+                "Dragonite": 0.1,
+                "Duraludon": 0.1,
+                "Eldegoss": 0.1,
+                "Empoleon": 0.1,
+                "Espeon": 0.1,
+                "Falinks": 0.1,
+                "Garchomp": 0.1,
+                "Gardevoir": 0.1,
+                "Gengar": 0.1,
+                "Glaceon": 0.1,
+                "Goodra": 0.1,
+                "Greedent": 0.1,
+                "Greninja": 0.1,
+                "Gyarados": 0.1,
+                "Mega Gyarados": 0.1,
+                "Ho-Oh": 0.1,
+                "Hoopa": 0.1,
+                "Inteleon": 0.1,
+                "Lapras": 0.1,
+                "Latias": 0.1,
+                "Latios": 0.1,
+                "Leafeon": 0.1,
+                "Lucario": 0.1,
+                "Mega Lucario": 0.1,
+                "Machamp": 0.1,
+                "Mamoswine": 0.1,
+                "Meowscarada": 0.1,
+                "Meowth": 0.1,
+                "Metagross": 0.1,
+                "Mew": 0.1,
+                "Mega Mewtwo X": 0.1,
+                "Mega Mewtwo Y": 0.1,
+                "Mimikyu": 0.1,
+                "Miraidon": 0.1,
+                "Moltres": 0.1,
+                "Mr. Mime": 0.1,
+                "Alolan Ninetales": 0.1,
+                "Pawmot": 0.1,
+                "Pikachu": 0.1,
+                "Psyduck": 0.1,
+                "Alolan Raichu": 0.1,
+                "Galarian Rapidash": 0.1,
+                "Sableye": 0.1,
+                "Scizor": 0.1,
+                "Scyther": 0.1,
+                "Sirfetch'd": 0.1,
+                "Slowbro": 0.1,
+                "Snorlax": 0.1,
+                "Suicune": 0.1,
+                "Sylveon": 0.1,
+                "Talonflame": 0.1,
+                "Tinkaton": 0.1,
+                "Trevenant": 0.1,
+                "Tsareena": 0.1,
+                "Tyranitar": 0.1,
+                "Umbreon": 0.1,
+                "Urshifu": 0.1,
+                "Vaporeon": 0.1,
+                "Venusaur": 0.1,
+                "Wigglytuff": 0.1,
+                "Zacian": 0.1,
+                "Zapdos": 0.1,
+                "Zeraora": 0.1,
+                "Zoroark": 0.1
+            }
+        },
+        "defense": {
+            "property_name": "Defense",
+            "property_description": "Pokemon's Physical Defense stat at level 15.",
+            "default_value": 0,
+            "entries": {
+                "Absol": 60,
+                "Aegislash": 112,
+                "Alcreamie": 75,
+                "Armarouge": 90,
+                "Azumarill": 85,
+                "Blastoise": 120,
+                "Blaziken": 70,
+                "Blissey": 120,
+                "Buzzwole": 90,
+                "Ceruledge": 80,
+                "Chandalure": 70,
+                "Charizard": 78,
+                "Mega Charizard X": 111,
+                "Mega Charizard Y": 85,
+                "Cinderace": 75,
+                "Clefable": 95,
+                "Comfey": 50,
+                "Cramorant": 80,
+                "Crustle": 120,
+                "Darkrai": 60,
+                "Decidueye": 90,
+                "Delphox": 75,
+                "Dhelmise": 130,
+                "Dodrio": 70,
+                "Dragapult": 75,
+                "Dragonite": 95,
+                "Duraludon": 115,
+                "Eldegoss": 50,
+                "Empoleon": 110,
+                "Espeon": 65,
+                "Falinks": 100,
+                "Garchomp": 95,
+                "Gardevoir": 65,
+                "Gengar": 60,
+                "Glaceon": 110,
+                "Goodra": 120,
+                "Greedent": 80,
+                "Greninja": 70,
+                "Gyarados": 79,
+                "Mega Gyarados": 110,
+                "Ho-Oh": 110,
+                "Hoopa": 60,
+                "Inteleon": 70,
+                "Lapras": 95,
+                "Latias": 80,
+                "Latios": 80,
+                "Leafeon": 130,
+                "Lucario": 70,
+                "Mega Lucario": 110,
+                "Machamp": 80,
+                "Mamoswine": 80,
+                "Meowscarada": 70,
+                "Meowth": 60,
+                "Metagross": 110,
+                "Mew": 100,
+                "Mega Mewtwo X": 150,
+                "Mega Mewtwo Y": 90,
+                "Mimikyu": 60,
+                "Miraidon": 80,
+                "Moltres": 90,
+                "Mr. Mime": 80,
+                "Alolan Ninetales": 75,
+                "Pawmot": 80,
+                "Pikachu": 60,
+                "Psyduck": 60,
+                "Alolan Raichu": 60,
+                "Galarian Rapidash": 70,
+                "Sableye": 110,
+                "Scizor": 150,
+                "Scyther": 80,
+                "Sirfetch'd": 80,
+                "Slowbro": 110,
+                "Snorlax": 110,
+                "Suicune": 115,
+                "Sylveon": 65,
+                "Talonflame": 80,
+                "Tinkaton": 80,
+                "Trevenant": 120,
+                "Tsareena": 80,
+                "Tyranitar": 110,
+                "Umbreon": 110,
+                "Urshifu": 80,
+                "Vaporeon": 60,
+                "Venusaur": 83,
+                "Wigglytuff": 45,
+                "Zacian": 115,
+                "Zapdos": 90,
+                "Zeraora": 75,
+                "Zoroark": 60
+            }
+        },
+        "difficulty": {
+            "property_name": "Difficulty",
+            "property_description": "The difficulty to play the Pokemon, as given by the game.",
+            "default_value": "Novice",
+            "entries": {
+                "Absol": 2,
+                "Aegislash": 4,
+                "Alcreamie": 1,
+                "Armarouge": 3,
+                "Azumarill": 2,
+                "Blastoise": 2,
+                "Blaziken": 3,
+                "Blissey": 1,
+                "Buzzwole": 3,
+                "Ceruledge": 3,
+                "Chandalure": 4,
+                "Charizard": 2,
+                "Mega Charizard X": 3,
+                "Mega Charizard Y": 3,
+                "Cinderace": 2,
+                "Clefable": 1,
+                "Comfey": 1,
+                "Cramorant": 2,
+                "Crustle": 2,
+                "Darkrai": 4,
+                "Decidueye": 3,
+                "Delphox": 3,
+                "Dhelmise": 4,
+                "Dodrio": 2,
+                "Dragapult": 4,
+                "Dragonite": 3,
+                "Duraludon": 3,
+                "Eldegoss": 1,
+                "Empoleon": 3,
+                "Espeon": 2,
+                "Falinks": 3,
+                "Garchomp": 4,
+                "Gardevoir": 2,
+                "Gengar": 4,
+                "Glaceon": 2,
+                "Goodra": 3,
+                "Greedent": 1,
+                "Greninja": 4,
+                "Gyarados": 3,
+                "Mega Gyarados": 4,
+                "Ho-Oh": 4,
+                "Hoopa": 3,
+                "Inteleon": 3,
+                "Lapras": 2,
+                "Latias": 4,
+                "Latios": 4,
+                "Leafeon": 2,
+                "Lucario": 3,
+                "Mega Lucario": 4,
+                "Machamp": 2,
+                "Mamoswine": 3,
+                "Meowscarada": 3,
+                "Meowth": 2,
+                "Metagross": 3,
+                "Mew": 4,
+                "Mega Mewtwo X": 4,
+                "Mega Mewtwo Y": 4,
+                "Mimikyu": 3,
+                "Miraidon": 2,
+                "Moltres": 3,
+                "Mr. Mime": 2,
+                "Alolan Ninetales": 2,
+                "Pawmot": 3,
+                "Pikachu": 1,
+                "Psyduck": 1,
+                "Alolan Raichu": 2,
+                "Galarian Rapidash": 2,
+                "Sableye": 3,
+                "Scizor": 3,
+                "Scyther": 2,
+                "Sirfetch'd": 2,
+                "Slowbro": 2,
+                "Snorlax": 1,
+                "Suicune": 2,
+                "Sylveon": 2,
+                "Talonflame": 2,
+                "Tinkaton": 2,
+                "Trevenant": 2,
+                "Tsareena": 2,
+                "Tyranitar": 3,
+                "Umbreon": 2,
+                "Urshifu": 3,
+                "Vaporeon": 1,
+                "Venusaur": 2,
+                "Wigglytuff": 1,
+                "Zacian": 3,
+                "Zapdos": 3,
+                "Zeraora": 3,
+                "Zoroark": 3
+            }
+        },
+        "evolve_level": {
+            "property_name": "Evolution Levels",
+            "property_description": "The levels at which the Pokemon evolves.",
+            "default_value": 0,
+            "entries": {
+                "Absol": 0,
+                "Aegislash": 0,
+                "Alcreamie": 0,
+                "Armarouge": 0,
+                "Azumarill": 18,
+                "Blastoise": 36,
+                "Blaziken": 36,
+                "Blissey": 0,
+                "Buzzwole": 0,
+                "Ceruledge": 0,
+                "Chandalure": 0,
+                "Charizard": 36,
+                "Mega Charizard X": 36,
+                "Mega Charizard Y": 36,
+                "Cinderace": 36,
+                "Clefable": 0,
+                "Comfey": 0,
+                "Cramorant": 0,
+                "Crustle": 34,
+                "Darkrai": 0,
+                "Decidueye": 34,
+                "Delphox": 34,
+                "Dhelmise": 0,
+                "Dodrio": 31,
+                "Dragapult": 60,
+                "Dragonite": 55,
+                "Duraludon": 60,
+                "Eldegoss": 24,
+                "Empoleon": 36,
+                "Espeon": 32,
+                "Falinks": 0,
+                "Garchomp": 0,
+                "Gardevoir": 0,
+                "Gengar": 0,
+                "Glaceon": 28,
+                "Goodra": 0,
+                "Greedent": 0,
+                "Greninja": 36,
+                "Gyarados": 20,
+                "Mega Gyarados": 20,
+                "Ho-Oh": 0,
+                "Hoopa": 0,
+                "Inteleon": 36,
+                "Lapras": 0,
+                "Latias": 0,
+                "Latios": 0,
+                "Leafeon": 25,
+                "Lucario": 30,
+                "Mega Lucario": 30,
+                "Machamp": 36,
+                "Mamoswine": 40,
+                "Meowscarada": 36,
+                "Meowth": 0,
+                "Metagross": 45,
+                "Mew": 0,
+                "Mega Mewtwo X": 0,
+                "Mega Mewtwo Y": 0,
+                "Mimikyu": 0,
+                "Miraidon": 0,
+                "Moltres": 0,
+                "Mr. Mime": 0,
+                "Alolan Ninetales": 0,
+                "Pawmot": 32,
+                "Pikachu": 0,
+                "Psyduck": 0,
+                "Alolan Raichu": 0,
+                "Galarian Rapidash": 0,
+                "Sableye": 0,
+                "Scizor": 0,
+                "Scyther": 0,
+                "Sirfetch'd": 0,
+                "Slowbro": 0,
+                "Snorlax": 0,
+                "Suicune": 0,
+                "Sylveon": 0,
+                "Talonflame": 34,
+                "Tinkaton": 0,
+                "Trevenant": 34,
+                "Tsareena": 32,
+                "Tyranitar": 55,
+                "Umbreon": 32,
+                "Urshifu": 0,
+                "Vaporeon": 25,
+                "Venusaur": 32,
+                "Wigglytuff": 0,
+                "Zacian": 0,
+                "Zapdos": 0,
+                "Zeraora": 0,
+                "Zoroark": 0
+            }
+        },
+        "hp": {
+            "property_name": "HP",
+            "property_description": "Pokemon's HP stat at level 15.",
+            "default_value": 0,
+            "entries": {
+                "Absol": 750,
+                "Aegislash": 1100,
+                "Alcreamie": 650,
+                "Armarouge": 850,
+                "Azumarill": 800,
+                "Blastoise": 900,
+                "Blaziken": 800,
+                "Blissey": 1300,
+                "Buzzwole": 900,
+                "Ceruledge": 850,
+                "Chandalure": 750,
+                "Charizard": 780,
+                "Mega Charizard X": 800,
+                "Mega Charizard Y": 780,
+                "Cinderace": 800,
+                "Clefable": 750,
+                "Comfey": 650,
+                "Cramorant": 700,
+                "Crustle": 900,
+                "Darkrai": 750,
+                "Decidueye": 800,
+                "Delphox": 750,
+                "Dhelmise": 900,
+                "Dodrio": 750,
+                "Dragapult": 850,
+                "Dragonite": 1000,
+                "Duraludon": 850,
+                "Eldegoss": 650,
+                "Empoleon": 750,
+                "Espeon": 650,
+                "Falinks": 700,
+                "Garchomp": 800,
+                "Gardevoir": 700,
+                "Gengar": 650,
+                "Glaceon": 700,
+                "Goodra": 900,
+                "Greedent": 700,
+                "Greninja": 750,
+                "Gyarados": 850,
+                "Mega Gyarados": 950,
+                "Ho-Oh": 950,
+                "Hoopa": 700,
+                "Inteleon": 750,
+                "Lapras": 850,
+                "Latias": 800,
+                "Latios": 800,
+                "Leafeon": 750,
+                "Lucario": 750,
+                "Mega Lucario": 800,
+                "Machamp": 800,
+                "Mamoswine": 850,
+                "Meowscarada": 800,
+                "Meowth": 650,
+                "Metagross": 850,
+                "Mew": 800,
+                "Mega Mewtwo X": 1000,
+                "Mega Mewtwo Y": 900,
+                "Mimikyu": 700,
+                "Miraidon": 800,
+                "Moltres": 850,
+                "Mr. Mime": 700,
+                "Alolan Ninetales": 750,
+                "Pawmot": 750,
+                "Pikachu": 650,
+                "Psyduck": 600,
+                "Alolan Raichu": 750,
+                "Galarian Rapidash": 750,
+                "Sableye": 700,
+                "Scizor": 800,
+                "Scyther": 750,
+                "Sirfetch'd": 750,
+                "Slowbro": 800,
+                "Snorlax": 1000,
+                "Suicune": 850,
+                "Sylveon": 700,
+                "Talonflame": 800,
+                "Tinkaton": 750,
+                "Trevenant": 900,
+                "Tsareena": 800,
+                "Tyranitar": 950,
+                "Umbreon": 750,
+                "Urshifu": 800,
+                "Vaporeon": 700,
+                "Venusaur": 800,
+                "Wigglytuff": 700,
+                "Zacian": 850,
+                "Zapdos": 850,
+                "Zeraora": 750,
+                "Zoroark": 750
+            }
+        },
+        "lifesteal": {
+            "property_name": "Lifesteal",
+            "property_description": "Pokemon's Lifesteal percent at level 15 on basic attacks.",
+            "default_value": 0,
+            "entries": {
+                "Absol": 0.1,
+                "Aegislash": 0.1,
+                "Alcreamie": 0.1,
+                "Armarouge": 0.1,
+                "Azumarill": 0.1,
+                "Blastoise": 0.1,
+                "Blaziken": 0.1,
+                "Blissey": 0.1,
+                "Buzzwole": 0.1,
+                "Ceruledge": 0.1,
+                "Chandalure": 0.1,
+                "Charizard": 0.1,
+                "Mega Charizard X": 0.1,
+                "Mega Charizard Y": 0.1,
+                "Cinderace": 0.1,
+                "Clefable": 0.1,
+                "Comfey": 0.1,
+                "Cramorant": 0.1,
+                "Crustle": 0.1,
+                "Darkrai": 0.1,
+                "Decidueye": 0.1,
+                "Delphox": 0.1,
+                "Dhelmise": 0.1,
+                "Dodrio": 0.1,
+                "Dragapult": 0.1,
+                "Dragonite": 0.1,
+                "Duraludon": 0.1,
+                "Eldegoss": 0.1,
+                "Empoleon": 0.1,
+                "Espeon": 0.1,
+                "Falinks": 0.1,
+                "Garchomp": 0.1,
+                "Gardevoir": 0.1,
+                "Gengar": 0.1,
+                "Glaceon": 0.1,
+                "Goodra": 0.1,
+                "Greedent": 0.1,
+                "Greninja": 0.1,
+                "Gyarados": 0.1,
+                "Mega Gyarados": 0.1,
+                "Ho-Oh": 0.1,
+                "Hoopa": 0.1,
+                "Inteleon": 0.1,
+                "Lapras": 0.1,
+                "Latias": 0.1,
+                "Latios": 0.1,
+                "Leafeon": 0.1,
+                "Lucario": 0.1,
+                "Mega Lucario": 0.1,
+                "Machamp": 0.1,
+                "Mamoswine": 0.1,
+                "Meowscarada": 0.1,
+                "Meowth": 0.1,
+                "Metagross": 0.1,
+                "Mew": 0.1,
+                "Mega Mewtwo X": 0.1,
+                "Mega Mewtwo Y": 0.1,
+                "Mimikyu": 0.1,
+                "Miraidon": 0.1,
+                "Moltres": 0.1,
+                "Mr. Mime": 0.1,
+                "Alolan Ninetales": 0.1,
+                "Pawmot": 0.1,
+                "Pikachu": 0.1,
+                "Psyduck": 0.1,
+                "Alolan Raichu": 0.1,
+                "Galarian Rapidash": 0.1,
+                "Sableye": 0.1,
+                "Scizor": 0.1,
+                "Scyther": 0.1,
+                "Sirfetch'd": 0.1,
+                "Slowbro": 0.1,
+                "Snorlax": 0.1,
+                "Suicune": 0.1,
+                "Sylveon": 0.1,
+                "Talonflame": 0.1,
+                "Tinkaton": 0.1,
+                "Trevenant": 0.1,
+                "Tsareena": 0.1,
+                "Tyranitar": 0.1,
+                "Umbreon": 0.1,
+                "Urshifu": 0.1,
+                "Vaporeon": 0.1,
+                "Venusaur": 0.1,
+                "Wigglytuff": 0.1,
+                "Zacian": 0.1,
+                "Zapdos": 0.1,
+                "Zeraora": 0.1,
+                "Zoroark": 0.1
+            }
+        },
+        "move1_cooldown": {
+            "property_name": "Move 1 Cooldown",
+            "property_description": "Pokemon's Move 1 cooldown in seconds at level 15.",
+            "default_value": 0,
+            "entries": {
+                "Absol": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Aegislash": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Alcreamie": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Armarouge": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Azumarill": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Blastoise": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Blaziken": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Blissey": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Buzzwole": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Ceruledge": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Chandalure": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Charizard": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Charizard X": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Charizard Y": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Cinderace": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Clefable": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Comfey": {
+                    "Option 1": 2,
+                    "Option 2": 3
+                },
+                "Cramorant": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Crustle": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Darkrai": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Decidueye": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Delphox": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Dhelmise": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Dodrio": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Dragapult": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Dragonite": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Duraludon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Eldegoss": {
+                    "Option 1": 2,
+                    "Option 2": 3
+                },
+                "Empoleon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Espeon": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Falinks": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Garchomp": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Gardevoir": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Gengar": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Glaceon": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Goodra": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Greedent": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Greninja": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Gyarados": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Gyarados": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Ho-Oh": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Hoopa": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Inteleon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Lapras": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Latias": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Latios": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Leafeon": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Lucario": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Lucario": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Machamp": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mamoswine": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Meowscarada": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Meowth": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Metagross": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Mew": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Mewtwo X": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Mewtwo Y": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mimikyu": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Miraidon": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Moltres": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Mr. Mime": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Alolan Ninetales": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Pawmot": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Pikachu": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Psyduck": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Alolan Raichu": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Galarian Rapidash": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Sableye": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Scizor": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Scyther": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Sirfetch'd": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Slowbro": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Snorlax": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Suicune": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Sylveon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },                
+                "Talonflame": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Tinkaton": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Trevenant": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Tsareena": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Tyranitar": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Umbreon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Urshifu": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Vaporeon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Venusaur": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Wigglytuff": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Zacian": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Zapdos": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Zeraora": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Zoroark": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                }
+            }
+        },
+        "move2_cooldown": {
+            "property_name": "Move 2 Cooldown",
+            "property_description": "Pokemon's Move 2 cooldown in seconds at level 15.",
+            "default_value": 0,
+            "entries": {
+                "Absol": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Aegislash": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Alcreamie": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Armarouge": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Azumarill": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Blastoise": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Blaziken": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Blissey": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Buzzwole": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Ceruledge": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Chandalure": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Charizard": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Charizard X": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Charizard Y": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Cinderace": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Clefable": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Comfey": {
+                    "Option 1": 2,
+                    "Option 2": 3
+                },
+                "Cramorant": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Crustle": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Darkrai": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Decidueye": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Delphox": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Dhelmise": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Dodrio": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Dragapult": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Dragonite": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Duraludon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Eldegoss": {
+                    "Option 1": 2,
+                    "Option 2": 3
+                },
+                "Empoleon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Espeon": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Falinks": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Garchomp": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Gardevoir": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Gengar": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Glaceon": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Goodra": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Greedent": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Greninja": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Gyarados": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Gyarados": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Ho-Oh": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Hoopa": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Inteleon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Lapras": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Latias": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Latios": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Leafeon": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Lucario": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Lucario": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Machamp": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mamoswine": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Meowscarada": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Meowth": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Metagross": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Mew": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Mewtwo X": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Mewtwo Y": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mimikyu": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Miraidon": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Moltres": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Mr. Mime": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Alolan Ninetales": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Pawmot": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Pikachu": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Psyduck": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Alolan Raichu": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Galarian Rapidash": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Sableye": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Scizor": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Scyther": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Sirfetch'd": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Slowbro": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Snorlax": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Suicune": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Sylveon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },                
+                "Talonflame": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Tinkaton": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Trevenant": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Tsareena": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Tyranitar": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Umbreon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Urshifu": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Vaporeon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Venusaur": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Wigglytuff": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Zacian": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Zapdos": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Zeraora": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Zoroark": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                }
+            }
+        },
+        "move_level": {
+            "property_name": "Move Levels",
+            "property_description": "Levels at which a Pokemon learns its moves.",
+            "default_value": 0,
+            "entries": {
+                "Absol": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Aegislash": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Alcreamie": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Armarouge": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Azumarill": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Blastoise": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Blaziken": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Blissey": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Buzzwole": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Ceruledge": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Chandalure": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Charizard": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Charizard X": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Charizard Y": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Cinderace": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Clefable": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Comfey": {
+                    "Option 1": 2,
+                    "Option 2": 3
+                },
+                "Cramorant": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Crustle": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Darkrai": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Decidueye": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Delphox": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Dhelmise": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Dodrio": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Dragapult": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Dragonite": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Duraludon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Eldegoss": {
+                    "Option 1": 2,
+                    "Option 2": 3
+                },
+                "Empoleon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Espeon": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Falinks": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Garchomp": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Gardevoir": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Gengar": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Glaceon": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Goodra": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Greedent": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Greninja": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Gyarados": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Gyarados": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Ho-Oh": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Hoopa": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Inteleon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Lapras": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Latias": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Latios": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Leafeon": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Lucario": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Lucario": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Machamp": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mamoswine": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Meowscarada": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Meowth": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Metagross": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Mew": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Mewtwo X": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mega Mewtwo Y": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Mimikyu": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Miraidon": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Moltres": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Mr. Mime": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Alolan Ninetales": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Pawmot": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Pikachu": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Psyduck": {
+                    "Option 1": 3,
+                    "Option 2": 4
+                },
+                "Alolan Raichu": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Galarian Rapidash": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Sableye": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Scizor": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Scyther": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Sirfetch'd": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Slowbro": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Snorlax": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Suicune": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Sylveon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },                
+                "Talonflame": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Tinkaton": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Trevenant": {
+                    "Option 1": 6,
+                    "Option 2": 7
+                },
+                "Tsareena": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Tyranitar": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Umbreon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Urshifu": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Vaporeon": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Venusaur": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Wigglytuff": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Zacian": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Zapdos": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                },
+                "Zeraora": {
+                    "Option 1": 4,
+                    "Option 2": 5
+                },
+                "Zoroark": {
+                    "Option 1": 5,
+                    "Option 2": 6
+                }
+            }
+        }
+    }
+}
