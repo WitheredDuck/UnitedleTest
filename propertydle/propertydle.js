@@ -3,7 +3,7 @@ function load_data(filename) {
     entry_header = "Blocks";
 
     $.ajax({
-        'url': '../data/block_data.json',
+        'url': '../data/pokemon_data.json',
         'dataType': "json",
         'success': function (d) {
             data_latest = d;
